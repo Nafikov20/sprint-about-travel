@@ -15,5 +15,3 @@
 **Ссылка на сайт:**
 https://nafikov20.github.io/sprint-about-travel/
 
-
-
